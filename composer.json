@@ -1,0 +1,13 @@
+{
+    "name": "sadapon2008/business-day-finder",
+    "description": "BusinessDay Finder",
+    "license": "MIT",
+    "type": "library",
+    "keywords": [
+        "date"
+    ],
+    "homepage": "https://github.com/sadapon2008/business-day-finder",
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
